@@ -1,0 +1,38 @@
+{
+  "Customers": [
+    {
+      "Name": "PaulDailly",
+      "Number": 56,
+      "Adress": "Hem",
+      "Account_numbers": [
+        {
+          "Money": 1000,
+          "Numero": 1001,
+          "Name": "Epargne"
+        },
+        {
+          "Money": 3000,
+          "Numero": 1002,
+          "Name": "Livret"
+        }
+      ]
+    },
+    {
+      "Name": "JackDutronc",
+      "Number": 6,
+      "Adress": "Dohem",
+      "Account_numbers": [
+        {
+          "Money": 1000,
+          "Numero": 1001,
+          "Name": "Epargne"
+        },
+        {
+          "Money": 3000,
+          "Numero": 1002,
+          "Name": "Livret"
+        }
+      ]
+    }
+  ]
+}
